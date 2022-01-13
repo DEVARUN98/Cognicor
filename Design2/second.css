@@ -1,0 +1,85 @@
+form{
+
+    width: auto;
+    height: auto;
+    align-content: center;
+    border-radius: 10px;
+    padding: 15px;
+    background: whitesmoke;
+    box-shadow: 0 0 5px;
+}
+
+.navbar ul{
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.nav-links{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+
+}
+.profile{
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    margin-bottom: 10px;
+}
+
+.nav-links li{
+    margin: 0 30px;
+}
+
+.first{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.second{
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    color: white;
+    background: #3a67c2;
+    padding: 10px;
+}
+
+.third{
+    margin-top: 10px;
+    background-color: white;
+    padding: 10px;
+}
+.center{
+    background-color: rgb(16, 1, 22);
+    color: white;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+}
+
+.chat1{
+    padding: 10px;
+    margin-top: 10px;
+    border: transparent;
+}
+.foot{
+    display: flex;
+    justify-content: flex-end;
+}
+.foot li{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.chat ul{
+    list-style: none;
+}
+.arro{
+    display: flex;
+    justify-content: flex-end;
+}
